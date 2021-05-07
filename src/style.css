@@ -30,10 +30,7 @@ p {
   justify-content: space-evenly;
   color: #4073c0;
 }
-.casttAbout {
-  display: flex;
-  justify-content: space-evenly;
-}
+
 .about {
   background-color: #f7d101;
   font-size: 30px;
