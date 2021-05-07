@@ -1,0 +1,97 @@
+body {
+  background-color: #f1f1f1;
+}
+h1 {
+  text-align: center;
+  color: #ff4a22;
+  font-size: 55px;
+  margin: 15px;
+}
+
+h3 {
+  color: #4073c0;
+}
+p {
+  text-align: center;
+}
+.casttLogo {
+  display: block;
+  margin: 0 auto;
+  border: #ffff;
+}
+.logo {
+  background-color: #ffff;
+  border-radius: 10px;
+  margin: 20px auto;
+}
+.content-list {
+  font-size: 25px;
+  display: flex;
+  justify-content: space-evenly;
+  color: #4073c0;
+}
+.casttAbout {
+  display: flex;
+  justify-content: space-evenly;
+}
+.about {
+  background-color: #f7d101;
+  font-size: 30px;
+  border-radius: 10px;
+  opacity: 0.75;
+  color: #4073c0;
+  box-shadow: 23px 10px 20px rgba(64, 115, 192, 0.3);
+  font-weight: lighter;
+  margin: 20px;
+  max-width: 500px;
+}
+
+.discord {
+  background-color: #4073c0;
+  border-radius: 10px;
+  box-shadow: 23px 10px 20px rgba(64, 115, 192, 0.3);
+  margin: 20px 10px;
+}
+.discordAbout {
+  font-size: 28px;
+  color: #f7d101;
+}
+.discord {
+  font-size: 22px;
+  color: #f7d101;
+  padding: 10px;
+}
+.mb-3 {
+  max-width: 700px;
+  display: block;
+  margin: 0 auto;
+  color: #f7d101;
+  font-size: 18px;
+}
+
+.btn-primary {
+  margin: 5px;
+  background-color: #f7d101;
+  color: #4073c0;
+}
+.patreonSupport {
+  font-size: 22px;
+  margin: 20px auto;
+  color: #4073c0;
+  font-weight: bold;
+}
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  color: #4073c0;
+}
+.social-links {
+  padding: 10px;
+  text-align: center;
+  opacity: 0.75;
+  margin: 15px;
+}
+.code {
+  font-size: 16px;
+  margin: auto 15px;
+}
