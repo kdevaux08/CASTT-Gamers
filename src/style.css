@@ -20,15 +20,7 @@ p {
   border: #ffff;
 }
 .logo {
-  background-color: #ffff;
-  border-radius: 10px;
-  margin: 20px auto;
-}
-.content-list {
-  font-size: 25px;
-  display: flex;
-  justify-content: space-evenly;
-  color: #4073c0;
+ width: 75px;
 }
 
 .about {
@@ -39,10 +31,10 @@ p {
   color: #4073c0;
   box-shadow: 23px 10px 20px rgba(64, 115, 192, 0.3);
   font-weight: lighter;
-  margin: 20px;
-  max-width: 500px;
 }
-
+.aboutImg{
+  width: 650px;
+}
 .discord {
   background-color: #4073c0;
   border-radius: 10px;
